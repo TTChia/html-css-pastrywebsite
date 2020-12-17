@@ -23,12 +23,13 @@ main {
     align-items:center;
     }
 
-.menu{
+#menu{
     background-color: white;
     background-size: cover;
     width:100%;
     height; 100%;
-    height: 100vh;
+    min-height: 100vh;
     text: black;
     text-align: center;
  }
+
