@@ -2,14 +2,19 @@ main {
     background-color: red;
     height:100vh;
 }
+
+#about-us{
+    background-color: pink;
+    height:100vh;
+}
 .navbar{
-    position: absolute;
+    /* position: absolute;
     z-index: 2;
-    width:100%;
+    width:100%; */
 }
 
 .nav-link{
-    color: white !important;
+    color: rgb(143, 31, 31)!important;
 }
     
 #hero-image1{
@@ -31,5 +36,19 @@ main {
     min-height: 100vh;
     text: black;
     text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
  }
 
+#form{
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+    height: 30vh;
+}
